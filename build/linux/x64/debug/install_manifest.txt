@@ -1,0 +1,11 @@
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/flutter_application_2
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/build/linux/x64/debug/bundle/data/flutter_assets/version.json

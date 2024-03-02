@@ -1,0 +1,1 @@
+ /home/osatapathy/Projects/flutter_workshop/checkpoint-1/Flutter-workshop-checkpoints/.dart_tool/flutter_build/501d9da3def8bba8bba74c9554c2623b/native_assets.yaml: 
