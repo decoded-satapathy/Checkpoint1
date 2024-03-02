@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'home_page.dart';
-import 'package:lottie/lottie.dart';
+// import 'home_page.dart';
+// import 'package:lottie/lottie.dart';
 
 final TextEditingController emailController = TextEditingController();
 final TextEditingController passwordController = TextEditingController();
@@ -12,16 +12,12 @@ bool validateLogin(String email, String password) {
   return false;
 }
 
+// void proceedLogin(BuildContext context) {
+//   Navigator.of(context).push(MaterialPageRoute(
+//     builder: (context) => HomePage(),
+//   ));
+// }
 
-
-
-
-
-void proceedLogin(BuildContext context) {
-  Navigator.of(context).push(MaterialPageRoute(
-        builder: (context) => HomePage(),
-      ));
-}
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
 
@@ -44,9 +40,9 @@ class _LoginPageState extends State<LoginPage> {
       body: ListView(
         padding: EdgeInsets.symmetric(horizontal: 30, vertical: 30),
         children: [
-          Lottie.network(
-              'https://lottie.host/9f1d00c6-d145-452a-b79b-151b04702d89/tr9cdv7oJJ.json',
-              height: 200),
+          // Lottie.network(
+          //     'https://lottie.host/9f1d00c6-d145-452a-b79b-151b04702d89/tr9cdv7oJJ.json',
+          //     height: 200),
           TextField(
             controller: emailController,
             decoration: InputDecoration(
@@ -66,20 +62,17 @@ class _LoginPageState extends State<LoginPage> {
           Container(height: 30),
           ElevatedButton(
               onPressed: () {
-                
                 if (validateLogin(
                     emailController.text, passwordController.text)) {
-                      print('Valid Credentials');
-                  proceedLogin(context);
-                }
-                else {
+                  print('Valid Credentials');
+                  // proceedLogin(context);
+                } else {
                   print('Invalid Credentials');
                 }
               },
               child: Text('Login'))
         ],
       ),
-
     );
   }
 }
